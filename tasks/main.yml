@@ -14,11 +14,13 @@
       - libXau.i686
       - libXcursor.i686
       - libXext.i686
+      - libXext.x86_64
       - libXfixes.i686
       - libXi.i686
       - libXp.i686
       - libXpm.i686
       - libXt.i686
+      - libXt.x86_64
       - libXtst.i686
       - libXmu.i686
       - libXrender.i686
