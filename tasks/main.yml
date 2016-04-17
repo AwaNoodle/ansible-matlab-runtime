@@ -1,7 +1,10 @@
 ---
-  - name: Install unzip
+  - name: Install requirements
     yum:
-      name: unzip
+      name: "{{ item }}" 
+    with_items:
+      - unzip
+      - libXext
 
   - name: Check for MATLAB files
     stat:
