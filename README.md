@@ -1,6 +1,6 @@
 # awanoodle.matlab-runtime
 
-Installs the MATLAB runtime.
+Installs the Linux R2015b MATLAB runtime.
 
 ## Requirements
 
